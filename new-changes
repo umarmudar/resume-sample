@@ -4,105 +4,55 @@
 [City, State, ZIP Code]
 [Email Address] | [Phone Number] | [LinkedIn Profile] | [GitHub Profile]
 
-Summary
-Motivated and detail-oriented freelance associate software developer with hands-on experience in Angular development, Firebase, TypeScript, HTML, CSS, JavaScript, and REST API integration. Passionate about creating efficient and scalable web applications. Seeking opportunities to leverage my skills in a collaborative and innovative environment.
-
-Skills
-Frontend Development: Angular, HTML, CSS, JavaScript, TypeScript
-Backend Development: REST API integration
-Database Management: Firebase
-Tools & Technologies: Git, npm, Webpack
-Soft Skills: Problem-solving, teamwork, communication, adaptability
-Experience
-Freelance Associate Software Developer
-Self-Employed | [Start Date] – Present
-
-Developed and maintained web applications using Angular, enhancing user experience and performance.
-Integrated Firebase for real-time database management and authentication solutions.
-Utilized TypeScript to ensure code quality and maintainability.
-Designed responsive web pages with HTML, CSS, and JavaScript, ensuring cross-browser compatibility.
-Implemented REST APIs for seamless communication between frontend and backend services.
-Collaborated with clients to gather requirements and deliver customized solutions.
-Managed version control and project collaboration using Git and GitHub.
-Projects
-Project Name 1
-Brief description of the project, technologies used, and your contributions.
-
-Project Name 2
-Brief description of the project, technologies used, and your contributions.
-
-Education
-[Your Degree]
-[Your Major]
-[Your University], [City, State] | [Graduation Year]
-
-Certifications
-[Certification Name], [Issuing Organization], [Year]
-[Certification Name], [Issuing Organization], [Year]
-Additional Information
-Languages: Fluent in [Language 1], [Language 2] (if applicable)
-Hobbies & Interests: [Your hobbies and interests related to tech or personal development]
-References available upon request.
-
-Feel free to customize the template with your specific details, projects, education, and certifications. This template aims to present your skills and experience in a clear, professional, and attractive manner.
-
-there's other can use aside from summary?
-ChatGPT
-Yes, instead of "Summary," you can use headings like "Professional Profile," "Objective," or "Career Overview" to start your resume. Here’s how you can structure it with different headings:
-
-[Your Name]
-
-[Your Address]
-[City, State, ZIP Code]
-[Email Address] | [Phone Number] | [LinkedIn Profile] | [GitHub Profile]
-
-Professional Profile
-Motivated and detail-oriented freelance associate software developer with hands-on experience in Angular development, Firebase, TypeScript, HTML, CSS, JavaScript, and REST API integration. Passionate about creating efficient and scalable web applications. Seeking opportunities to leverage my skills in a collaborative and innovative environment.
-
-Skills
-Frontend Development: Angular, HTML, CSS, JavaScript, TypeScript
-Backend Development: REST API integration
-Database Management: Firebase
-Tools & Technologies: Git, npm, Webpack
-Soft Skills: Problem-solving, teamwork, communication, adaptability
-Experience
-Freelance Associate Software Developer
-Self-Employed | [Start Date] – Present
-
-Developed and maintained web applications using Angular, enhancing user experience and performance.
-Integrated Firebase for real-time database management and authentication solutions.
-Utilized TypeScript to ensure code quality and maintainability.
-Designed responsive web pages with HTML, CSS, and JavaScript, ensuring cross-browser compatibility.
-Implemented REST APIs for seamless communication between frontend and backend services.
-Collaborated with clients to gather requirements and deliver customized solutions.
-Managed version control and project collaboration using Git and GitHub.
-Projects
-Project Name 1
-Brief description of the project, technologies used, and your contributions.
-
-Project Name 2
-Brief description of the project, technologies used, and your contributions.
-
-Education
-[Your Degree]
-[Your Major]
-[Your University], [City, State] | [Graduation Year]
-
-Certifications
-[Certification Name], [Issuing Organization], [Year]
-[Certification Name], [Issuing Organization], [Year]
-Additional Information
-Languages: Fluent in [Language 1], [Language 2] (if applicable)
-Hobbies & Interests: [Your hobbies and interests related to tech or personal development]
-References available upon request.
-
-Alternatively, using "Objective":
-
 Objective
-Aspiring to contribute to a dynamic team as a software developer, utilizing my skills in Angular, Firebase, TypeScript, HTML, CSS, JavaScript, and REST API integration to deliver innovative and efficient web applications.
+Aspiring IT developer with a strong foundation in Angular development, Firebase, TypeScript, HTML, CSS, JavaScript, and REST API integration. Looking to leverage my skills and hands-on project experience to contribute to a dynamic development team.
 
-Or "Career Overview":
+Skills
+Frontend Development: Angular, HTML, CSS, JavaScript, TypeScript
+Backend Development: REST API integration
+Database Management: Firebase
+Tools & Technologies: Git, npm, Webpack
+Soft Skills: Problem-solving, teamwork, communication, adaptability
+Projects
+Transportation System
+April 1, 2024 to April 30, 2024
 
-Career Overview
-Freelance associate software developer with experience in developing, maintaining, and optimizing web applications using Angular, Firebase, TypeScript, HTML, CSS, JavaScript, and REST API integration. Proven track record in delivering tailored solutions to clients and enhancing user experiences.
+Developed a system to track vehicles using mini GPS devices installed in the vehicles.
+Implemented real-time tracking and data visualization using Angular.
+Collaborated with clients to understand requirements and deliver a tailored solution.
+Machine Learning Cry Detector
+May 1, 2024 to May 30, 2024
 
+Set up a model to detect different types of baby cries and display the reasons (e.g., wet diaper, hungry, sleepy).
+Integrated machine learning models with Angular for real-time analysis.
+Worked on improving the accuracy of the cry detection model through iterative testing.
+Sulu Historical and Information Management Website
+June 1, 2024 to June 30, 2024
+
+Developed a website to display historical images and details with an admin panel for updates.
+Enabled secure image and data uploads, and created a user-friendly interface using Angular.
+Implemented user authentication and authorization for the admin section.
+Dietary Tracker App
+July 1, 2024 to Present
+
+Created an app to track user diet and exercise goals (e.g., build muscle, chest).
+Integrated user data upload and tracking functionalities using Angular and Firebase.
+Developed personalized dashboards to help users monitor their progress.
+Traffic Violation System
+July 1, 2024 to Present
+
+Developed a system to record and track traffic violations, identifying repeat offenders.
+Implemented a feature to display previous violations and their status (settled or not).
+Ensured data integrity and security through effective database management and Angular frontend.
+Education
+[Your Degree]
+[Your Major]
+[Your University], [City, State] | [Graduation Year]
+
+Certifications
+[Certification Name], [Issuing Organization], [Year]
+[Certification Name], [Issuing Organization], [Year]
+Additional Information
+Languages: Fluent in [Language 1], [Language 2] (if applicable)
+Hobbies & Interests: [Your hobbies and interests related to tech or personal development]
+References available upon request.
